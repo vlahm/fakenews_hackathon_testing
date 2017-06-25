@@ -6,7 +6,6 @@
 /flask/__pycache__
 *.pkl
 /flask/realnews*
-/flask/templates
 .ipynb_checkpoints
 /flask/chili.py
 /flask/junk
