@@ -1,11 +1,14 @@
 /possible_junk
 /flask_obs
 /foundation_exp
-flask/.ipynb_checkpoints
-tool/.ipynb_checkpoints
-flask/__pycache__
+/flask/.ipynb_checkpoints
+/tool/.ipynb_checkpoints
+/flask/__pycache__
 *.pkl
-flask/realnews*
-flask/templates
+/flask/realnews*
+/flask/templates
 .ipynb_checkpoints
+/flask/chili.py
+/flask/junk
+
 
